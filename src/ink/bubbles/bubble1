@@ -9,8 +9,8 @@ INCLUDE bubbles/bubble2
 // wind audio
 #CONTENT: {"type": "audio", "src": "bubble1/wind.mp3", "loop": true, "volume": 0.3, "fade": 2000}
 
-Etwas abseits vom Dorf auf einer Wiese liegt {name}.
-Die Sonne steht bereits im Zenit und scheint {s: ihm|ihr} heiss ins Gesicht.
+{name} находится на лугу немного в стороне от села.
+{s: ihm|ihr} Солнце уже в зените и жарко светит в лицо.
 
 Seltsam, dass niemand nach {s: ihm|ihr} sucht... Vom Dorf ist nichts zu hören. Kein Geschrei, nur Totenstille.
 
